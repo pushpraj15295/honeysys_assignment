@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: rgb(241, 240, 240);
+    height: 60px;
+    align-items: center;
+  }
+  
+  .navbar_logo{
+     font-weight: bold;
+     color:dimgrey;
+     font-size: large;
+  }
+  .navbar_prod{
+    font-weight: bold;
+    font-size:large;
+    color:rgb(86, 81, 81);
+  }
