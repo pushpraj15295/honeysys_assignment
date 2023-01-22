@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "name": "Harry Potter and the Philosopher's Stone",
+      "description": "Bloomsbury",
+      "brand": "THE BAKERS DOZEN",
+      "price": 2500
+    },
+    {
+      "id": 2,
+      "image_url": "https://m.media-amazon.com/images/I/91hTGBe9+3L._AC_UL480_FMwebp_QL65_.jpg",
+      "name": "Solimo Hiking Day Backpack",
+      "description": "Bloomsbury",
+      "brand":"Solimo",
+      "price": 1209
+    },
+    {
+        "id": 3,
+        "image_url": "https://m.media-amazon.com/images/I/81dA8md0diL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Turtle Neck Sweater",
+        "description": "Bloomsbury",
+        "brand": "THE BAKERS DOZEN",
+        "price": 2500
+      },
+      {
+        "id": 4,
+        "image_url": "https://m.media-amazon.com/images/I/61EXU8BuGZL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Turtle Neck Sweater",
+        "description": "Bloomsbury",
+        "brand":"RATNADEEP",
+        "price": 11209
+      },
+      {
+        "id": 5,
+        "image_url": "https://m.media-amazon.com/images/I/71DFDVlNZbL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Harry Potter and the Philosopher's Stone",
+        "description": "Bloomsbury",
+        "brand": "THE BAKERS DOZEN",
+        "price": 25000
+      },
+      {
+        "id": 6,
+        "image_url": "https://m.media-amazon.com/images/I/91hTGBe9+3L._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "Badminton",
+        "description": "Badminton with color red,green and blue",
+        "brand":"RATNADEEP",
+        "price": 1209
+      },
+      {
+        "id": 7,
+        "image_url": "https://m.media-amazon.com/images/I/718kV8tftKL._AC_UL480_FMwebp_QL65_.jpg",
+        "name": "",
+        "description": "Bloomsbury",
+        "brand": "THE BAKERS DOZEN",
+        "price": 200
+      },
+      {
+        "id": 8,
+        "image_url": "https://m.media-amazon.com/images/I/71DosJOQtUL._AC_UL480_QL65_.jpg",
+        "name": " Potter Stone",
+        "description": "Bloomsbury",
+        "brand":"RATNADEEP",
+        "price": 1209
+      },
+      {
+        "id": 9,
+        "image_url": "https://m.media-amazon.com/images/I/41qR0HixP7L._AC_UL480_QL65_.jpg",
+        "name": "Solimo Cricket Kit Bag, Red",
+        "description": "Solimo",
+        "brand": "THE BAKERS DOZEN",
+        "price": 250
+      },
+      {
+        "id": 10,
+        "image_url": "https://m.media-amazon.com/images/I/81fHXyDezmL._AC_UL480_QL65_.jpg",
+        "name": " Potter Stone",
+        "description": "Bloomsbury",
+        "brand":"RATNADEEP",
+        "price": 1209
+      }
+  ]

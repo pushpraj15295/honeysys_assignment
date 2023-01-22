@@ -1,9 +1,26 @@
-import React from 'react'
-
+import React, { useState } from "react";
+import { useEffect } from "react";
+import Filter from "../components/Filter";
+import ProductList from "../components/ProductList";
+import products from "../db.json";
+import styles from "../Styles/Home.module.css";
 const Home = () => {
-  return (
-    <div>Home</div>
-  )
-}
+  const [product, setProduct] = useState([]);
 
-export default Home
+  useEffect(() => {
+    setProduct(products);
+  }, []);
+
+  // console.log("product",product);
+
+  return (
+    <>
+      <div className={styles.container}>
+        <Filter product={product} />
+        <ProductList product={product} />
+      </div>
+    </>
+  );
+};
+
+export default Home;
